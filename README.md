@@ -6,8 +6,8 @@
 
 ## 实习岗位
 
-* [Web 前端实习生](https://github.com/makeflow/jobs/issues/1)
+* [Web 前端实习生 (成都)](https://github.com/makeflow/jobs/issues/1)
 
 ## 正式岗位
 
-* JavaScript/TypeScript 工程师
+* JavaScript/TypeScript 工程师 (成都)
