@@ -6,7 +6,7 @@
 
 ## 实习岗位
 
-* [Web 前端实习生 (成都)](./interships/web-front-end-intern.md)
+* [Web 前端实习生 (成都)](./internships/web-front-end-intern.md)
 
 ## 正式岗位
 
