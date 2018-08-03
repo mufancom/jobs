@@ -30,4 +30,4 @@
 **团队成员:**
 
 * 老万 ([@vilic](https://github.com/vilic))
-* 狮子 ([@maolion](https://github.com/vilic))
+* 狮子 ([@maolion](https://github.com/maolion))
