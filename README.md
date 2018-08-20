@@ -11,3 +11,4 @@
 ## 正式岗位
 
 * JavaScript/TypeScript 工程师 (成都)
+* [UI 设计师 (成都)](./jobs/ui-designer.md)
