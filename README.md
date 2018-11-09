@@ -6,9 +6,9 @@
 
 ## 正式岗位
 
-* JavaScript/TypeScript 工程师 (成都)
-* [UI 设计师 (成都)](./jobs/ui-designer.md)
+* [研发工程师 (JavaScript/TypeScript 方向) - 成都](./jobs/rd-engineer-javascript-typescript.md)
+* ~~[UI 设计师 - 成都](./jobs/ui-designer.md)~~
 
 ## 实习岗位
 
-* [Web 前端实习生 (成都)](./internships/web-front-end-intern.md)
+* [Web 前端实习生 - 成都](./internships/web-front-end-intern.md)

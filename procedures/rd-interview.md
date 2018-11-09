@@ -6,7 +6,7 @@
 
 我们使用 Visual Studio Code 的 Live Share 进行远程代码面试. 在面试开始前, 请准备好 Visual Studio Code 并安装 [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) 插件 (插件安装完成后, 需要使用 Microsoft 或 GitHub 账号登陆).
 
-为了确保远程代码面试顺利进行, 候选人可以提前测试相关功能.
+为了确保远程代码面试顺利进行, 候选人请**务必**提前测试相关功能.
 
 ### 面试时间
 
