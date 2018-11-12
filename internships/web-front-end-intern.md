@@ -9,7 +9,7 @@
 * 开发和维护所见即所得的任务编辑器, 掌握复杂状态的组件设计.
 * 开发和维护基于 WebSocket 的实时同步框架, 了解可扩展的实时同步架构和权限管理.
 
-希望候选人拥有较好的 JavaScript 基础, 对 Node.js 与 TypeScript 有所了解, 勤奋好学, 精益求精, 乐观开朗.
+希望候选人拥有较好的 JavaScript 基础, 对 Node.js 与 TypeScript 有所了解, 有自己独立开发的成型项目/轮子, 勤奋好学, 精益求精, 乐观开朗.
 在实习期间, 我们会为你的任务厘清方向, 认真进行 code review (**非常重要**), 帮助你快速成长.
 
 欢迎有兴趣的同学投递简历到邮箱 [hr@mufan.com](mailto:hr@mufan.com?subject=Web%20前端实习生). 😄
