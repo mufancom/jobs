@@ -4,9 +4,12 @@
 
 ### 准备工作
 
-网络连接正常的笔记本.
+网络连接正常的笔记本
 
-Chrome 浏览器.
+Chrome 浏览器
+
+进行 [摄像头测试](https://interview.mufan.io/media-test)
+
 
 ### 面试时间
 
