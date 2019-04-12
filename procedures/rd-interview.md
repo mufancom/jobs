@@ -8,7 +8,9 @@
 
 需 Chrome 浏览器
 
-需进行 [摄像头测试](https://interview.mufan.io/media-test)
+需进行 [摄像头测试](https://interview.mufan.io/media-test)（点击此处）
+
+> PS: 请在电脑上使用 Chrome 浏览器进行摄像头测试
 
 ### 面试环境
 
